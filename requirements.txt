@@ -1,6 +1,6 @@
 git+https://github.com/LonamiWebs/Telethon
 python-dotenv
-markdown_it
+markdown-it
 asyncio
 TgCrypto
 pyrogram
